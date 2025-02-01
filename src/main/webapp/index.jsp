@@ -9,9 +9,7 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: grey; font-size: 40px;" align="center">JAI SREE RAM</h1>
-
-
-	<h1 style="color: purple; font-size: 800px;" align="center">jai mata ji</h1>
+        <h1 style="color: red; font-size: 6000px;" align="center">jai mata ji</h1>
 
 	
 	
