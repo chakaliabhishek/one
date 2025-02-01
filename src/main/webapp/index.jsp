@@ -11,7 +11,7 @@
 	<h1 style="color: grey; font-size: 40px;" align="center">JAI SREE RAM</h1>
 
 
-	     <h1 style="color: purple; font-size: 800px;" align="center">jai mata ji</h1>
+	<h1 style="color: purple; font-size: 800px;" align="center">jai mata ji</h1>
 
 	
 	
