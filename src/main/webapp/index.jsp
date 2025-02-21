@@ -9,12 +9,8 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: grey; font-size: 40px;" align="center">JAI SREE RAM</h1>
-        <h1 style="color: red; font-size: 6000px;" align="center">hellow hh</h1>
-	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
-	<h1 style="color: grey; font-size: 40px;" align="center">JAI SREE RAM JI</h1>
-        <h1 style="color: black; font-size: 40px;" align="center">FRIDAY</h1>
+        <h1 style="color: green; font-size: 40px;" align="center">fridayfeb2025</h1>
 
-	
 	
 	
 	
